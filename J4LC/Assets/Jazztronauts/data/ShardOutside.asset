@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ef771bea20965e48bf2d4af01e6396e, type: 3}
+  m_Name: ShardOutside
+  m_EditorClassIdentifier: 
+  prefabToSpawn: {fileID: 1439155060275590598, guid: 757cce325b50b4d468d91bcde6f4be16,
+    type: 3}
+  spawnFacingAwayFromWall: 0
+  objectWidth: 5
+  spawnableFloorTags:
+  - Catwalk
+  - Metal
+  - Concrete
+  - Carpet
+  - Puddle
+  - Gravel
+  - Aluminum
+  - Wood
+  - Snow
+  - Grass
+  - Rock
+  rotationOffset: {x: 0, y: 0, z: 0}
