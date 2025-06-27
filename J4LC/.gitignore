@@ -1,4 +1,3 @@
-### Unity ###
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
@@ -72,18 +71,11 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-### Additional ignores ###
+.vscode/
+.idea/
 
-# Downloaded package files.
-/[Pp]ackages/*/
-
-# Game assets.
-/[Aa]ssets/LethalCompany/Game/**
+# Patcher specific
+/[Aa]ssets/LethalCompany/Game/*
 *.dll*
-/AssetRipper/**
-/AssetRipperOutput/**
-/[Aa]ssets/LethalCompany/Mods/plugins/**
-/[Aa]ssets/AssetStore/**
-
-# Generated asset bundles.
-/[Aa]ssets/LethalCompany/Mods/plugins/AssetBundles/*
+/AssetRipper/*
+/AssetRipperOutput/*
