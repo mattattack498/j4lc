@@ -1,0 +1,234 @@
+ManifestFileVersion: 0
+CRC: 1310721240
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43caa139ae6c2a39987b4568e6e51583
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cc6e84eddb10fc301da6734e442aa1c5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 43caa139ae6c2a39987b4568e6e51583
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b175106070eac43e038e73170ca9b17e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b64db6f35cbe9cb4f4a0f49e681cf5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e287aa47693a4f67de75066c5bddc2ed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3082d2a57f1d60917000af0bdeb85ea8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 94f10ed4536484ae40a507a235b54583, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65d3fcb39dd67306e9bb17a603308070, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b5a3ed4d4d53c21e962b1a5208dbf57, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 04f75356a7e9c978bddc7d568e58a50b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+- Class: 114
+  Script: {fileID: -1976929510, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -398301991, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -938226526, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c30496d6ae6d6f907456e10a94e01ec6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 507293d35d7a13e5b9ca9bb60e082e11, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5a15fd86cfe211173eb68d9b08fcff2, type: 3}
+- Class: 114
+  Script: {fileID: 1493648790, guid: 0fe2080e38ab2984bbdc21cb43a24c01, type: 3}
+- Class: 114
+  Script: {fileID: -118805913, guid: 0fe2080e38ab2984bbdc21cb43a24c01, type: 3}
+- Class: 114
+  Script: {fileID: -1787465788, guid: 0fe2080e38ab2984bbdc21cb43a24c01, type: 3}
+- Class: 114
+  Script: {fileID: -194780425, guid: 0fe2080e38ab2984bbdc21cb43a24c01, type: 3}
+- Class: 114
+  Script: {fileID: 2024385392, guid: 0fe2080e38ab2984bbdc21cb43a24c01, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4db49fbfafad761d8436b6a817dbed3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c36d0a92cbb1f26a39169ef0eae393a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a78fbcb05fce0467660bf5619ab66bc0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7309e47b2bb12594e4b01608bdfa7068, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8051c419809ddfb023f9330c6c0eb0fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64c6de9b64f5fa50ab3e1e87d281e1ee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 50682bad09b1a743b13295b77aebc259, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1ca002da428252441b92f28d83c8a65f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f61ab386f856f522b7dbd23657c351b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dcf4d9ff07d69c36441b139533cef6ae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5506d85c0f9415f35854e714dadb5c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8233d90336aea43098adf6dbabd606a2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0bf1473be2fdebe220e46d27c67438ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 000ae222f5a7f7c7cee5ab5298053935, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 898bacac74241c5172ef6300f7b279a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2c662b0f92d7236699123213e2fb9f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc615723168fad2d87ed05ea97e3b88f, type: 3}
+- Class: 114
+  Script: {fileID: 1240296155, guid: 0967748810451114d913cb7da5507984, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 164
+  Script: {instanceID: 0}
+- Class: 169
+  Script: {instanceID: 0}
+- Class: 191
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Battery
+- AssemblyName: Assembly-CSharp
+  ClassName: BooleanEvent
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.FloatRange
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.GameObjectChance
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.GameObjectChanceTable
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.GameObjectWeight
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Graph.DungeonFlow/GlobalPropSettings
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Graph.GraphLine
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Graph.GraphNode
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.IntRange
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Tags.Tag
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Tags.TagContainer
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Tags.TagPair
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.TileInjectionRule
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.TilePlacementData
+- AssemblyName: Assembly-CSharp
+  ClassName: EnemySize
+- AssemblyName: Assembly-CSharp
+  ClassName: InteractEvent
+- AssemblyName: Assembly-CSharp
+  ClassName: InteractEventFloat
+- AssemblyName: Assembly-CSharp
+  ClassName: NavSizeLimit
+- AssemblyName: Assembly-CSharp
+  ClassName: OnSwitchPowerEvent
+- AssemblyName: Assembly-CSharp
+  ClassName: SpawnableMapObject
+- AssemblyName: LethalLevelLoader
+  ClassName: LethalLevelLoader.StringWithRarity
+- AssemblyName: Unity.ProBuilder
+  ClassName: UnityEngine.ProBuilder.AutoUnwrapSettings
+- AssemblyName: Unity.ProBuilder
+  ClassName: UnityEngine.ProBuilder.Face
+- AssemblyName: Unity.ProBuilder
+  ClassName: UnityEngine.ProBuilder.Shapes.Cube
+- AssemblyName: Unity.ProBuilder
+  ClassName: UnityEngine.ProBuilder.SharedVertex
+- AssemblyName: Unity.ProBuilder
+  ClassName: UnityEngine.ProBuilder.UnwrapParameters
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[GameNetcodeStuff.PlayerControllerB]
+Assets:
+- Assets/LethalCompany/Mods/Bozoros/Dungeon/CircusFacilityExtendedMod.asset
+Dependencies: []

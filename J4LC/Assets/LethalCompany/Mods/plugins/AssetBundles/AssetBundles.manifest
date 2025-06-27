@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2862806123
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bozoros.lethalbundle
+      Dependencies: {}
+    Info_1:
+      Name: bozorosscene.lethalbundle
+      Dependencies: {}
+    Info_2:
+      Name: circusfacility.lethalbundle
+      Dependencies: {}
+    Info_3:
+      Name: playzone-interior.lethalbundle
+      Dependencies: {}

@@ -1,0 +1,456 @@
+ManifestFileVersion: 0
+CRC: 156006858
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8685a80625e78b4c554909683841bb9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 521b8dcfbae932ea8b7c82c8be6d122b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8685a80625e78b4c554909683841bb9f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1021614267, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 1103240837, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 1595129268, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 769506997, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 1494953733, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 1095172655, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 1130931374, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 2078005699, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 520033419, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 2010324110, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 1192076886, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 261497252, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 626294411, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e287aa47693a4f67de75066c5bddc2ed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9008a067f4d626c4d8bc4bc48f04bb89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3082d2a57f1d60917000af0bdeb85ea8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c348aa78a2dd17054e936e85866d996, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 94f10ed4536484ae40a507a235b54583, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b5a3ed4d4d53c21e962b1a5208dbf57, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 04f75356a7e9c978bddc7d568e58a50b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e8d0727d5ae3244e3b569694d3912374, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d7593b3a9277ac4696b20006c21dde2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+- Class: 114
+  Script: {fileID: -2030072876, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -2070043974, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -550194668, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -1513115181, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -659232532, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -721617661, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -1750102123, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -969212986, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -872074848, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -1777090785, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -1189057746, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -1922373103, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -1062304117, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -2110470705, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -1584401189, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 2119190289, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 1621058541, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -398301991, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -938226526, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -1166489382, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -1606022592, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 1154646837, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -1942322718, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 123190304, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -18013314, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -1746475632, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 1456034632, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -1252074091, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 1109773171, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -1604982132, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: -1892682957, guid: 79fe939dc1a419c4ea0840527c7469f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c30496d6ae6d6f907456e10a94e01ec6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 507293d35d7a13e5b9ca9bb60e082e11, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f8ec375840c30a0e501d18e3ba05fdb3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5a15fd86cfe211173eb68d9b08fcff2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e9e4ed5a6f56fb4ebd693e39684f36f, type: 3}
+- Class: 114
+  Script: {fileID: 1493648790, guid: 0fe2080e38ab2984bbdc21cb43a24c01, type: 3}
+- Class: 114
+  Script: {fileID: 1205422742, guid: 0fe2080e38ab2984bbdc21cb43a24c01, type: 3}
+- Class: 114
+  Script: {fileID: -118805913, guid: 0fe2080e38ab2984bbdc21cb43a24c01, type: 3}
+- Class: 114
+  Script: {fileID: -1787465788, guid: 0fe2080e38ab2984bbdc21cb43a24c01, type: 3}
+- Class: 114
+  Script: {fileID: -194780425, guid: 0fe2080e38ab2984bbdc21cb43a24c01, type: 3}
+- Class: 114
+  Script: {fileID: 222636081, guid: 0fe2080e38ab2984bbdc21cb43a24c01, type: 3}
+- Class: 114
+  Script: {fileID: 2024385392, guid: 0fe2080e38ab2984bbdc21cb43a24c01, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e88178bb13f64a54f90d6cd6ef7aa9a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4db49fbfafad761d8436b6a817dbed3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c36d0a92cbb1f26a39169ef0eae393a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24f077503be6ae942a1e1245dbd53ea9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a78fbcb05fce0467660bf5619ab66bc0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7309e47b2bb12594e4b01608bdfa7068, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8051c419809ddfb023f9330c6c0eb0fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59b6606ef2548734bb6d11b9d160bc7e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1daf25ecaaa9200539e0b6ddc16c98a8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb31b43a374a93ca6ba1acfb4a89226f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f61ab386f856f522b7dbd23657c351b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 953beb541740ddc499d005ee80c9ff29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7a448fe3aafbb5773df039a1882cba7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dcf4d9ff07d69c36441b139533cef6ae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5506d85c0f9415f35854e714dadb5c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6eeb5dc026fdf4b488bc7ae0138ab719, type: 3}
+- Class: 114
+  Script: {fileID: 1961925963, guid: bce8a04e010f985459d6d3b3807a4178, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0bf1473be2fdebe220e46d27c67438ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 000ae222f5a7f7c7cee5ab5298053935, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e3fdca004f2d45fe8abbed571a8abd5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f19d9143a39eb3b46bc4563e9889cfbd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 13502f3bd547ff482433fba7c0d5b3c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2c662b0f92d7236699123213e2fb9f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc615723168fad2d87ed05ea97e3b88f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 144
+  Script: {instanceID: 0}
+- Class: 164
+  Script: {instanceID: 0}
+- Class: 169
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+- Class: 328
+  Script: {instanceID: 0}
+- Class: 73398921
+  Script: {instanceID: 0}
+- Class: 1773428102
+  Script: {instanceID: 0}
+- Class: 1818360608
+  Script: {instanceID: 0}
+- Class: 2058629509
+  Script: {instanceID: 0}
+- Class: 2083052967
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Battery
+- AssemblyName: Assembly-CSharp
+  ClassName: BooleanEvent
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.FloatRange
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.GameObjectChance
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.GameObjectChanceTable
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.GameObjectWeight
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Graph.DungeonFlow/GlobalPropSettings
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Graph.GraphLine
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Graph.GraphNode
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.IntRange
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Tags.Tag
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Tags.TagContainer
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.Tags.TagPair
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.TileInjectionRule
+- AssemblyName: Assembly-CSharp
+  ClassName: DunGen.TilePlacementData
+- AssemblyName: Assembly-CSharp
+  ClassName: InteractEvent
+- AssemblyName: Assembly-CSharp
+  ClassName: InteractEventFloat
+- AssemblyName: Assembly-CSharp
+  ClassName: SpawnableMapObject
+- AssemblyName: LethalLevelLoader
+  ClassName: LethalLevelLoader.StringWithRarity
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.AnimationCurveParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.BoolParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ColorParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.CubemapParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.FloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.LayerMaskParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.MinFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.NoInterpIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Texture2DParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.TextureParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Vector2Parameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Vector3Parameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.VolumeParameter`1[UnityEngine.Rendering.HighDefinition.CloudDistortionMode]
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.VolumeParameter`1[UnityEngine.Rendering.HighDefinition.CloudMapMode]
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.VolumeParameter`1[UnityEngine.Rendering.HighDefinition.HDRISky/DistortionMode]
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BackplateTypeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BloomResolutionParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.CloudLayer/CloudMap
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.CloudLayerEnumParameter`1[UnityEngine.Rendering.HighDefinition.CloudResolution]
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.CloudLayerEnumParameter`1[UnityEngine.Rendering.HighDefinition.CloudShadowsResolution]
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.EnvUpdateParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogColorParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogControlParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogDenoisingModeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FogTypeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.ScalableSettingLevelParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.SkyAmbientModeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.SkyIntensityParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudControlParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudErosionNoiseParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudFadeInModeParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudMapResolutionParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudPresetsParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudShadowResolutionParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.WindOrientationParameter
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.WindParameter/WindParamaterValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.WindSpeedParameter
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[EnemyAI]
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[GameNetcodeStuff.PlayerControllerB]
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[GrabbableObject]
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[System.Boolean]
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[System.Int32]
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[UnityEngine.Collider]
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[UnityEngine.GameObject]
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[itolib.Behaviours.Detectors.EnemyFilter]
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[itolib.Behaviours.Props.ConnectorMerger]
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[itolib.Behaviours.Props.WallBreaker]
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`2[GameNetcodeStuff.PlayerControllerB,System.Int32]
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`2[System.Boolean,System.Boolean]
+- AssemblyName: itolib
+  ClassName: itolib.Behaviours.Conditionals.ConditionalOverride
+- AssemblyName: itolib
+  ClassName: itolib.Behaviours.Events.EventWithWeight
+- AssemblyName: itolib
+  ClassName: itolib.Behaviours.Materials.MaterialSwap
+- AssemblyName: itolib
+  ClassName: itolib.Behaviours.Networking.HitInfo
+- AssemblyName: itolib
+  ClassName: itolib.Behaviours.Props.HazardReplacement
+Assets:
+- Assets/LethalCompany/Mods/PlayZone-Interior/PlayZoneExtendedMod.asset
+Dependencies: []
